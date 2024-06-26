@@ -1,0 +1,5 @@
+transformers
+torch
+rake-nltk
+nltk
+streamlit
